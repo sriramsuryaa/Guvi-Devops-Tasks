@@ -1,0 +1,31 @@
+File Creation Task 2:
+
+Create 20 files with .txt extensions and rename the first 5 files to .yml extension and
+Print the latest created top 5 files among the total no of files.
+
+
+I've used for loop to create the 20 files sequentially.
+
+$>  for ((i=1; i<=20; i++)); do touch file-$i.txt; sleep 1; done
+
+
+After that listing the created file using
+
+$>  ls -ltrh 
+
+
+Again I've used the for loop to rename the first .txt files to .yml files.
+
+$>  for ((i=1; i<=5; i++)); do mv file-$i.txt file-$i.yml; sleep 1; done 
+
+
+After that checked files
+
+$> ls 
+
+
+Finally, I used these two ways to print the 5 latest created files among all
+
+$> ls -lt | head -n6 | tail -n5 
+
+$> ls -t | head -n5 
