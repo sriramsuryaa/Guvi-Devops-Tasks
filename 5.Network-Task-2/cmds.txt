@@ -4,7 +4,12 @@
 
 # ----------------------------------------------------------------------------------------
 
-# Check the port whether it is open or not :
+# Check the port whether it is open or not from client:
 telnet guvi.com 9000
 
 # -----------------------------------------------------------------------------------------
+
+# Check the port whether it is listening or not inside the server:
+sudo netstat -ntple | grep 9000       # it shows the listening port 9000 with it's program name  
+
+
