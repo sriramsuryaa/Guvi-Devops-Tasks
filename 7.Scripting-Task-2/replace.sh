@@ -10,7 +10,7 @@ function replace_as_new_file()
 {
   sed '1,4b; /welcome/ s/give/learning/g' $content > $output
 
-   if [ -f replaced-content.txt ]; 
+   if [ -f "$output" ]; 
      then
        echo "Replaced file : replaced-content.txt"
      fi
