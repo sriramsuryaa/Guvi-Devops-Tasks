@@ -1,100 +1,50 @@
 
-Host Name:                 EC2AMAZ-1TPHFB9
-OS Name:                   Microsoft Windows Server 2019 Datacenter
-OS Version:                10.0.17763 N/A Build 17763
-OS Manufacturer:           Microsoft Corporation
-OS Configuration:          Standalone Server
-OS Build Type:             Multiprocessor Free
-Registered Owner:          EC2
-Registered Organization:   Amazon.com
-Product ID:                00430-00000-00000-AA420
-Original Install Date:     9/1/2025, 9:26:57 AM
-System Boot Time:          9/1/2025, 11:20:17 AM
-System Manufacturer:       Amazon EC2
-System Model:              t3.medium
-System Type:               x64-based PC
-Processor(s):              1 Processor(s) Installed.
-                           [01]: Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2500 Mhz
-BIOS Version:              Amazon EC2 1.0, 10/16/2017
-Windows Directory:         C:\Windows
-System Directory:          C:\Windows\system32
-Boot Device:               \Device\HarddiskVolume1
-System Locale:             en-us;English (United States)
-Input Locale:              en-us;English (United States)
-Time Zone:                 (UTC) Coordinated Universal Time
-Total Physical Memory:     4,036 MB
-Available Physical Memory: 2,467 MB
-Virtual Memory: Max Size:  5,444 MB
-Virtual Memory: Available: 3,970 MB
-Virtual Memory: In Use:    1,474 MB
-Page File Location(s):     C:\pagefile.sys
-Domain:                    WORKGROUP
-Logon Server:              \\EC2AMAZ-1TPHFB9
-Hotfix(s):                 58 Hotfix(s) Installed.
-                           [01]: KB5062068
-                           [02]: KB4470502
-                           [03]: KB4470788
-                           [04]: KB4480056
-                           [05]: KB4486153
-                           [06]: KB4493510
-                           [07]: KB4499728
-                           [08]: KB4504369
-                           [09]: KB4512577
-                           [10]: KB4512937
-                           [11]: KB4521862
-                           [12]: KB4523204
-                           [13]: KB4535680
-                           [14]: KB4539571
-                           [15]: KB4549947
-                           [16]: KB4558997
-                           [17]: KB4562562
-                           [18]: KB4566424
-                           [19]: KB4570332
-                           [20]: KB4577667
-                           [21]: KB4587735
-                           [22]: KB4589208
-                           [23]: KB4598480
-                           [24]: KB4601393
-                           [25]: KB5000859
-                           [26]: KB5001404
-                           [27]: KB5003243
-                           [28]: KB5003711
-                           [29]: KB5005112
-                           [30]: KB5063877
-                           [31]: KB5006754
-                           [32]: KB5008287
-                           [33]: KB5009642
-                           [34]: KB5011574
-                           [35]: KB5012675
-                           [36]: KB5014031
-                           [37]: KB5014797
-                           [38]: KB5015896
-                           [39]: KB5017400
-                           [40]: KB5020374
-                           [41]: KB5023789
-                           [42]: KB5028316
-                           [43]: KB5030505
-                           [44]: KB5031589
-                           [45]: KB5032306
-                           [46]: KB5034863
-                           [47]: KB5035963
-                           [48]: KB5037017
-                           [49]: KB5039335
-                           [50]: KB5040563
-                           [51]: KB5041577
-                           [52]: KB5043126
-                           [53]: KB5050110
-                           [54]: KB5054007
-                           [55]: KB5055662
-                           [56]: KB5058525
-                           [57]: KB5062800
-                           [58]: KB5005701
-Network Card(s):           1 NIC(s) Installed.
-                           [01]: Amazon Elastic Network Adapter
-                                 Connection Name: Ethernet 3
-                                 DHCP Enabled:    Yes
-                                 DHCP Server:     172.31.32.1
-                                 IP address(es)
-                                 [01]: 172.31.45.214
-                                 [02]: fe80::8191:1ec9:1a08:c15d
-Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+Host Name:                     EC2AMAZ-2M1604L
+OS Name:                       Microsoft Windows Server 2025 Datacenter
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Server
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              EC2
+Registered Organization:       Amazon.com
+Product ID:                    00491-50000-00001-AA567
+Original Install Date:         9/2/2025, 6:12:49 AM
+System Boot Time:              9/2/2025, 9:24:10 AM
+System Manufacturer:           Amazon EC2
+System Model:                  t3.large
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2500 Mhz
+BIOS Version:                  Amazon EC2 1.0, 10/16/2017
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume2
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC) Coordinated Universal Time
+Total Physical Memory:         7,974 MB
+Available Physical Memory:     5,703 MB
+Virtual Memory: Max Size:      9,894 MB
+Virtual Memory: Available:     7,961 MB
+Virtual Memory: In Use:        1,933 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\EC2AMAZ-2M1604L
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5056579
+                               [02]: KB5063878
+                               [03]: KB5063666
+                               [04]: KB5065381
+Network Card(s):               1 NIC(s) Installed.
+                               [01]: Amazon Elastic Network Adapter
+                                     Connection Name: Ethernet
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     172.31.0.1
+                                     IP address(es)
+                                     [01]: 172.31.6.55
+                                     [02]: fe80::c1e4:1dc4:3763:3ee6
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
